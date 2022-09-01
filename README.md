@@ -11,8 +11,8 @@ N/A
 ## Usage
 Screenshots of Live Website:
 
-![Screenshot of Website](assets/images/Screenshot1.jpeg)
-![Other Screenshot of Website](assets/images/Screenshot2.jpeg)
+![Screenshot of Website](assets/images/Screenshot2.jpeg)
+![Other Screenshot of Website](assets/images/Screenshot1.jpeg)
 
 Link to Live Website:
 
