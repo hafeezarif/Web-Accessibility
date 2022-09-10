@@ -16,7 +16,7 @@ Screenshots of Live Website:
 
 Link to Live Website:
 
-http://127.0.0.1:5501/index.html 
+https://hafeezarif.github.io/Web-Accessibility/ 
 
 ## Credits
 
